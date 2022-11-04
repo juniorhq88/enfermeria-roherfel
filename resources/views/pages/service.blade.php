@@ -334,43 +334,6 @@
                             </div>
                         </article>
                     </div>
-                    <div class="col-sm-12 col-md-4">
-                        <article class="pbmit-service-style-1">
-                            <div class="pbminfotech-post-item">
-                                <div class="pbmit-service-icon-overlay">
-                                    <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-05.jpg" class="img-fluid" alt="service 5">
-                                    </div>
-                                    <div class="pbmit-service-icon-wrapper">
-                                        <i class="pbmit-doctery-icon pbmit-doctery-icon-headache"></i>
-                                    </div>
-                                </div>
-                                <div class="pbminfotech-box-content">
-                                    <div class="pbminfotech-box-content-inner">
-                                        <h3 class="pbmit-service-title">Cuidadoras:
-                                        </h3>
-                                        <div class="pbmit-service-content">
-                                            <ul>
-                                                <li>Compañia y apoyo de:</li>
-                                                <li>Administración de medicamentos </li>
-                                                <li>Apoyo en terapia física</li>
-                                                <li>Terapia ocupacional</li>
-                                                <li>Asistencia en alimentación</li>
-                                                <li>Aseo personal.</li>
-
-                                                <li>Personal de apoyo en aseo de casa:</li>
-                                                <li>Persona responsable y con iniciativa,</li>
-                                                <li>para el cuidado, compañía, aseo de casa, cómo la preparación de
-                                                    alimentos.</li>
-
-                                            </ul>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
-                    </div>
                 </div>
             </div>
         </section>
