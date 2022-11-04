@@ -96,57 +96,38 @@
                     <div class="col-lg-8 col-sm-12">
                         <div class="pbmit-heading-subheading text-left">
                             <h4 class="pbmit-subtitle">Contáctenos</h4>
-                            <h2 class="pbmit-title">y le atenderemos lo más pronto posible</h2>
+                            <h2 class="pbmit-title">le atenderemos lo más pronto posible</h2>
 
                         </div>
-                        <form>
+                        <form method="POST">
+                            @csrf
                             <div class="row mb-3 g-3">
                                 <div class="col-lg-6 col-md-6">
-                                    <input type="text" class="form-control" placeholder="First Name" name="First Name">
+                                    <input type="text" class="form-control" placeholder="Nombre" name="first_name"
+                                        required>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
-                                    <input type="text" class="form-control" placeholder="Last Name" name="Last Name">
+                                    <input type="text" class="form-control" placeholder="Apellidos" name="last_name"
+                                        required>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
-                                    <input type="text" class="form-control" placeholder="Email" name="Email">
+                                    <input type="text" class="form-control" placeholder="Correo electrónico"
+                                        name="email" required>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
-                                    <input type="text" class="form-control" placeholder="Phone" name="Phone">
+                                    <input type="text" class="form-control" placeholder="Teléfono" name="phone"
+                                        required>
                                 </div>
-                                <div class="col-lg-6 col-md-6">
-                                    <select class="form-select" aria-label="Default select example">
-                                        <option selected="">Select Department</option>
-                                        <option value="1">Department 1</option>
-                                        <option value="2">Department 2</option>
-                                        <option value="3">Department 3</option>
-                                    </select>
-                                </div>
-                                <div class="col-lg-6 col-md-6">
-                                    <select class="form-select" aria-label="Default select example">
-                                        <option selected="">Select Doctor</option>
-                                        <option value="1">Doctor 1</option>
-                                        <option value="2">Doctor 2</option>
-                                        <option value="3">Doctor 3</option>
-                                    </select>
-                                </div>
-                                <div class="col-lg-6 col-md-6">
-                                    <select class="form-select" aria-label="Default select example">
-                                        <option selected="">Date</option>
-                                        <option value="1">Date 1</option>
-                                        <option value="2">Date 2</option>
-                                        <option value="3">Date 3</option>
-                                    </select>
-                                </div>
-                                <div class="col-lg-6 col-md-6">
-                                    <select class="form-select" aria-label="Default select example">
-                                        <option selected="">Time</option>
-                                        <option value="1">Time 1</option>
-                                        <option value="2">Time 4</option>
-                                        <option value="3">Time 3</option>
+                                <div class="col-lg-12 col-md-12">
+                                    <select class="form-select" aria-label="Default select example" required>
+                                        <option selected="">Seleccione un servicio</option>
+                                        @foreach ($services as $key => $value)
+                                            <option value="{{ $key }}">{{ $value }}</option>
+                                        @endforeach
                                     </select>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
-                                    <textarea class="form-control" name="message" rows="4" placeholder="Message"></textarea>
+                                    <textarea class="form-control" name="message" rows="4" placeholder="Mensaje" required></textarea>
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
                                     <button type="submit" class="pbmit-btn">Enviar mensaje</button>
@@ -161,38 +142,38 @@
                                 <div class="widget mb-5">
                                     <ul class="pbmit-timelist-list Emergency-timelist-list">
                                         <li>
-                                            <span class="pbmit-timelist-li-title pbmit-color-global">Monday</span>
+                                            <span class="pbmit-timelist-li-title pbmit-color-global">Lunes</span>
                                             <span class="pbmit-timelist-li-value text-white">09:00 am - 19:00
                                                 pm</span>
                                         </li>
                                         <li>
-                                            <span class="pbmit-timelist-li-title pbmit-color-global">Tuesday:</span>
+                                            <span class="pbmit-timelist-li-title pbmit-color-global">Martes:</span>
                                             <span class="pbmit-timelist-li-value text-white">09:00 am - 19:00
                                                 pm</span>
                                         </li>
                                         <li>
-                                            <span class="pbmit-timelist-li-title pbmit-color-global">Wednesday:</span>
+                                            <span class="pbmit-timelist-li-title pbmit-color-global">Miércoles:</span>
                                             <span class="pbmit-timelist-li-value text-white">09:00 am - 19:00
                                                 pm</span>
                                         </li>
                                         <li>
-                                            <span class="pbmit-timelist-li-title pbmit-color-global">Thursday:</span>
+                                            <span class="pbmit-timelist-li-title pbmit-color-global">Jueves:</span>
                                             <span class="pbmit-timelist-li-value text-white">09:00 am - 19:00
                                                 pm</span>
                                         </li>
                                         <li>
-                                            <span class="pbmit-timelist-li-title pbmit-color-global">Friday:</span>
+                                            <span class="pbmit-timelist-li-title pbmit-color-global">Viernes:</span>
                                             <span class="pbmit-timelist-li-value text-white">09:00 am - 19:00
                                                 pm</span>
                                         </li>
                                         <li>
-                                            <span class="pbmit-timelist-li-title pbmit-color-global">Saturday</span>
+                                            <span class="pbmit-timelist-li-title pbmit-color-global">Sabado</span>
                                             <span class="pbmit-timelist-li-value text-white">09:00 am - 19:00
                                                 pm</span>
                                         </li>
                                         <li>
-                                            <span class="pbmit-timelist-li-title pbmit-color-global">Sunday</span>
-                                            <span class="pbmit-timelist-li-value text-white">Closed*</span>
+                                            <span class="pbmit-timelist-li-title pbmit-color-global">Domingo</span>
+                                            <span class="pbmit-timelist-li-value text-white">Cerrado</span>
                                         </li>
                                     </ul>
                                 </div>

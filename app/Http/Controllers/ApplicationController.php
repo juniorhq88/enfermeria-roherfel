@@ -23,6 +23,27 @@ class ApplicationController extends Controller
 
     public function contact()
     {
-        return view('pages.contact');
+        $services = $this->currentServices();
+        return view('pages.contact', compact('services'));
+    }
+
+    /**
+     * currentServices
+     *
+     * @return array
+     */
+    public function currentServices(): array
+    {
+        $services = [
+            'Enfermería general',
+            'Auxiliar de enfermería',
+            'Enfermería general (Adulto mayor)',
+            'Enfermeras auxiliares (Adulto mayor)',
+            'Cuidadoras (Adulto mayor)',
+            'Enfermera general (Bebés y niños)',
+            'Enfermera auxiliar (Bebés y niños)',
+            'Nanas (Bebés y niños)',
+        ];
+        return $services;
     }
 }
