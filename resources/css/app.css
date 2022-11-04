@@ -1,3 +1,21 @@
+.blueRoherfel{
+    color: #081839;
+}
+
+.blueRoherfel2{
+    color: #1bbde4;
+}
+
+.backgroundRoherfel{
+    background-color: #081839;
+    color: #FFF;
+}
+
+.backgroundRoherfel2{
+    background-color: #1bbde4;
+    color: #FFF;
+
+}
 
 .w100 {
  font-weight: 100;
@@ -12,7 +30,7 @@ body, html{
   width:60px;
   height:60px;
   bottom:40px;
-  right:40px;
+  right:85px;
   background-color:#25d366;
   color:#FFF;
   border-radius:50px;

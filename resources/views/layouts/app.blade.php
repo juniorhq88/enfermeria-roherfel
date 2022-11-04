@@ -21,8 +21,7 @@
 </head>
 
 <body>
-    <a href="https://wa.me/525579094524?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp"
-        target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+    @include('partials.whatsapp')
     <div class="page-wrapper">
         @include('partials.header')
 

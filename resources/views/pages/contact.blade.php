@@ -6,14 +6,15 @@
                 <div class="pbmit-title-bar-content-inner">
                     <div class="pbmit-tbar">
                         <div class="pbmit-tbar-inner container">
-                            <h1 class="pbmit-tbar-title">Contact Us</h1>
+                            <h1 class="pbmit-tbar-title">Contáctenos</h1>
                         </div>
                     </div>
                     <div class="pbmit-breadcrumb">
                         <div class="pbmit-breadcrumb-inner">
-                            <span><a title="" href="#" class="home"><span>Doctery</span></a></span>
+                            <span><a title="" href="#"
+                                    class="home"><span>{{ config('app.name') }}</span></a></span>
                             <span class="sep"><i class="pbmit-base-icon-angle-double-right"></i></span>
-                            <span><span class="post-root post post-post current-item">Contact Us</span></span>
+                            <span><span class="post-root post post-post current-item">Contáctenos</span></span>
                         </div>
                     </div>
                 </div>
@@ -27,10 +28,9 @@
         <section class="section-lgt contact-section">
             <div class="container">
                 <div class="pbmit-heading-subheading text-center">
-                    <h4 class="pbmit-subtitle">Get in touch </h4>
-                    <h2 class="pbmit-title mb-3"> Call now or write a message</h2>
-                    <p>Quis ipsum suspendisse ultrices gravida risus commodo viverra maecenas<br>
-                        accumsan lacus vel facilisis.</p>
+                    <h4 class="pbmit-subtitle">Póngase en contacto con nosotros </h4>
+                    <h2 class="pbmit-title mb-3"> Llámenos o escriba un mensaje</h2>
+                    <p>Estamos para atenderle</p>
                 </div>
                 <div class="row g-0">
                     <div class="col-md-4 col-sm-12">
@@ -44,8 +44,8 @@
                                     </div>
                                 </div>
                                 <div class="pbmit-ihbox-contents">
-                                    <h2 class="pbmit-element-title"> Our Location​​</h2>
-                                    <div class="pbmit-heading-desc">456, Lorem Street,New York,<br>33454, NY.</div>
+                                    <h2 class="pbmit-element-title"> Dirección​​</h2>
+                                    <div class="pbmit-heading-desc">456, Lorem Street, 09780 CDMX</div>
                                 </div>
                             </div>
                         </div>
@@ -61,8 +61,8 @@
                                     </div>
                                 </div>
                                 <div class="pbmit-ihbox-contents">
-                                    <h2 class="pbmit-element-title"> Phone Number</h2>
-                                    <div class="pbmit-heading-desc">Emergency Cases<br>+1 (088) 456 888 (24/7)</div>
+                                    <h2 class="pbmit-element-title"> Teléfono</h2>
+                                    <div class="pbmit-heading-desc"> <a href="tel:5579094524">55-7909-4524</a></div>
                                 </div>
                             </div>
                         </div>
@@ -78,14 +78,10 @@
                                     </div>
                                 </div>
                                 <div class="pbmit-ihbox-contents">
-                                    <h2 class="pbmit-element-title"> Email Address</h2>
-                                    <div class="pbmit-heading-desc"><a
-                                            href="https://doctery-demo.pbminfotech.com/cdn-cgi/l/email-protection"
+                                    <h2 class="pbmit-element-title"> Correo electrónico</h2>
+                                    <div class="pbmit-heading-desc"><a href="mailto:info@enfermeriaroherfel.com"
                                             class="__cf_email__"
-                                            data-cfemail="eb8884859f8a889fab8e938a869b878ec5888486">[email&#160;protected]</a>,<br><a
-                                            href="https://doctery-demo.pbminfotech.com/cdn-cgi/l/email-protection"
-                                            class="__cf_email__"
-                                            data-cfemail="d3b2b7bebabd93b6abb2bea3bfb6fdb0bcbe">[email&#160;protected]</a>
+                                            data-cfemail="eb8884859f8a889fab8e938a869b878ec5888486">info@enfermeriaroherfel.com</a>
                                     </div>
                                 </div>
                             </div>
