@@ -32,14 +32,7 @@
                             </div>
                         </nav>
                     </div>
-                    <div class="menu-right-box d-flex align-items-center">
-                        <a href="#" class="search-btn"><i class="optico-icon-search-1"></i></a>
-                        <div class="header-button">
-                            <a href="{{ route('contact') }}" class="pbmit-btn"><i
-                                    class="pbmit-base-icon-appointment me-1"></i>
-                                Agendar una cita</a>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>

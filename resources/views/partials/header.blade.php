@@ -5,12 +5,13 @@
                 <div class="d-flex align-items-center justify-content-center">
                     <ul class="nav pbmit-contact-info justify-content-center justify-content-md-start">
                         <li class="nav-item me-3">
-                            <i class="pbmit-base-icon-marker me-2 pbmit-color-global"></i> <a href="tel:5524648922">(52)
-                                55-2464-8922</a>
+                            <i class="pbmit-base-icon-marker me-2 pbmit-color-global"></i> <a href="tel:5579094524">
+                                55-7909-4524</a>
                         </li>
                         <li>
                             <i class="pbmit-base-icon-contact pbmit-color-global me-2"></i><a
-                                href="mailto:info@nursery.com" class="__cf_email__">info@nursery.com</a> - Soporte 24/7
+                                href="mailto:info@enfermeriaroherfel.com"
+                                class="__cf_email__">info@enfermeriaroherfel.com</a> - Soporte 24/7
                     </ul>
                 </div>
                 <div class="d-flex align-items-center justify-content-center">
