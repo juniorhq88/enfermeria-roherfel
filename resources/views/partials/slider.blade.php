@@ -16,7 +16,7 @@
                         data-text="w:nowrap;s:84,69,60,40;l:84,69,60,42;ls:-2px,-1px,-1px,-1px;fw:700;"
                         data-frame_0="x:-50,-41,-31,-19;" data-frame_1="st:1190;sp:1000;sR:1190;"
                         data-frame_999="o:0;st:w;sR:6810;" style="z-index:8;font-family:'Rajdhani';">
-                        Cambio de salud<br />
+                        Cuidados de salud<br />
                         Estamos para apoyarte
                     </rs-layer>
 

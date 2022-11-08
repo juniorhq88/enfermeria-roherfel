@@ -16,11 +16,11 @@
                             <div class="pbminfotech-box-content">
                                 <div class="pbminfotech-box-content-inner">
                                     <div class="pbmit-heading-cat">
-                                        <h3 class="pbmit-service-title"><a href="javascript:void();">Enfermería
+                                        <h3 class="pbmit-service-title"><a href="javascript:void();">Enfermera
                                                 general</a></h3>
                                     </div>
                                     <div class="pbmit-service-content">
-                                        <p>Compañia y cuidado <br>
+                                        <p>Atención y cuidado <br>
                                             Aplicacion y cuidado de sondas <br>
                                             Aplicacion y cuidado de sueros...
                                         </p>

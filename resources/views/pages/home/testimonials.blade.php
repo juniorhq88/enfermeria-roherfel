@@ -5,7 +5,8 @@
                 <div class="col-md-12 col-lg-6">
                     <div class="pbmit-heading-subheading text-left">
                         <h4 class="pbmit-subtitle"> Testimonios</h4>
-                        <h2 class="pbmit-title text-white mb-4"> Lo que dice la gente sobre nuestros cuidados
+                        <h2 class="pbmit-title text-white mb-4"> Lo que dice la gente sobre la atención y cuidado que
+                            brindamos
                         </h2>
                     </div>
                 </div>

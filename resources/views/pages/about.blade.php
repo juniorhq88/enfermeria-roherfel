@@ -38,54 +38,60 @@
                             </h2>
                         </div>
                         <div class="mb-5">
-                            <p>Hacemos de tus seres queridos un gran lugar para el
-                                cuidado de ellos</p>
+                            <p>Somos un grupo de personas con calidad humana, que te brinda un servicio de ética y
+                                profesionalismo, para ayudar a ti y a tu familia a tener una mejor calidad de vida
+                            </p>
                         </div>
                         <!--div class="row pb-4 align-items-center">
-                                <div class="col-md-4">
-                                    <img class="img-fluid" src="images/signature-img.png" alt="" />
-                                </div>
-                                <div class="col-md-8 border-start ps-5">
-                                    <div class="pbmit-ihbox pbmit-ihbox-style-6">
-                                        <div class="d-flex align-items-center">
-                                            <div class="pbmit-ihbox-icon">
-                                                <div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
-                                                    <img src="images/author.jpg" alt="Richard Muldoone" />
+                                                <div class="col-md-4">
+                                                    <img class="img-fluid" src="images/signature-img.png" alt="" />
                                                 </div>
-                                            </div>
-                                            <div class="pbmit-ihbox-contents">
-                                                <h2 class="pbmit-element-title">
-                                                    Richard Muldoone
-                                                </h2>
-                                                <h6 class="pbmit-element-heading">
-                                                    FOUNDER
-                                                </h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </!--div-->
+                                                <div class="col-md-8 border-start ps-5">
+                                                    <div class="pbmit-ihbox pbmit-ihbox-style-6">
+                                                        <div class="d-flex align-items-center">
+                                                            <div class="pbmit-ihbox-icon">
+                                                                <div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
+                                                                    <img src="images/author.jpg" alt="Richard Muldoone" />
+                                                                </div>
+                                                            </div>
+                                                            <div class="pbmit-ihbox-contents">
+                                                                <h2 class="pbmit-element-title">
+                                                                    Richard Muldoone
+                                                                </h2>
+                                                                <h6 class="pbmit-element-heading">
+                                                                    FOUNDER
+                                                                </h6>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </!--div-->
                         <div class="list-wrap">
                             <div class="row">
                                 <div class="col-md-5">
                                     <ul class="list-group list-group-borderless">
                                         <li class="list-group-item">
-                                            <i class="pbmit-doctery-icon-approved-signal"></i> 100% Expert Doctors
+                                            <i class="pbmit-doctery-icon-approved-signal"></i> Fisioterapeutas
                                         </li>
                                         <li class="list-group-item">
-                                            <i class="pbmit-doctery-icon-approved-signal"></i> From Scintific Jornal
+                                            <i class="pbmit-doctery-icon-approved-signal"></i> Enfermeras generales
+                                        </li>
+                                        <li class="list-group-item">
+                                            <i class="pbmit-doctery-icon-approved-signal"></i> Auxiliar de enfermería
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col-md-7">
                                     <ul class="list-group list-group-borderless">
+
                                         <li class="list-group-item">
-                                            <i class="pbmit-doctery-icon-approved-signal"></i> Instant Operation
-                                            &amp; Appointment
+                                            <i class="pbmit-doctery-icon-approved-signal"></i> Cuidadoras
                                         </li>
                                         <li class="list-group-item">
-                                            <i class="pbmit-doctery-icon-approved-signal"></i> Medicine &amp;
-                                            instrument
+                                            <i class="pbmit-doctery-icon-approved-signal"></i> Nanas
+                                        </li>
+                                        <li class="list-group-item">
+                                            <i class="pbmit-doctery-icon-approved-signal"></i> Personal de limpieza
                                         </li>
                                     </ul>
                                 </div>

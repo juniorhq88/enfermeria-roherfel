@@ -14,13 +14,9 @@
                         <div class="clinic-content ">
                             <div class="pbmit-heading-subheading">
                                 <h4 class="pbmit-subtitle">¿Que hacemos?</h4>
-                                <h2 class="pbmit-title text-white">Hacemos de tus seres queridos un gran lugar para el
-                                    cuidado de ellos.</h2>
+                                <h2 class="pbmit-title text-white">Ayudamos a tus seres queridos a tener una mejor calidad de
+                                    vida, con ética y profesionalismo</h2>
                             </div>
-                            <p class="text-white pe-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                                do eiusmod tempor incididunt ut labore et dolore magna aliqua. ipsum suspendisse
-                                ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-                            </p>
                             <div class="row ">
                                 <div class="col-md-6">
                                     <ul class="list-group list-group-borderless ">

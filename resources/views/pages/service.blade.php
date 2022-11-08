@@ -38,7 +38,7 @@
                             <div class="pbminfotech-post-item">
                                 <div class="pbmit-service-icon-overlay">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-01.jpg" class="img-fluid" alt="service 1">
+                                        <img src="images/services/service-02.jpg" class="img-fluid" alt="Enfermera general">
                                     </div>
                                     <div class="pbmit-service-icon-wrapper">
                                         <i class="pbmit-doctery-icon pbmit-doctery-icon-pimples"></i>
@@ -75,7 +75,8 @@
                             <div class="pbminfotech-post-item">
                                 <div class="pbmit-service-icon-overlay">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-02.jpg" class="img-fluid" alt="service 2">
+                                        <img src="images/services/service-01.jpg" class="img-fluid"
+                                            alt="Auxiliar de enfermería">
                                     </div>
                                     <div class="pbmit-service-icon-wrapper">
                                         <i class="pbmit-doctery-icon pbmit-doctery-icon-blood-transfusion"></i>
@@ -119,7 +120,7 @@
                             <div class="pbminfotech-post-item">
                                 <div class="pbmit-service-icon-overlay">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-03.jpg" class="img-fluid" alt="service 3">
+                                        <img src="images/services/service-03.jpg" class="img-fluid" alt="Enfermera general">
                                     </div>
                                     <div class="pbmit-service-icon-wrapper">
                                         <i class="pbmit-doctery-icon pbmit-doctery-icon-angiography"></i>
@@ -130,7 +131,7 @@
                                         <h3 class="pbmit-service-title">Enfermera general</h3>
                                         <div class="pbmit-service-content">
                                             <ul>
-                                                <li>Compañia y cuidado de:</li>
+                                                <li>Atención y cuidado en:</li>
                                                 <li>Aplicacion y cuidado de sondas</li>
                                                 <li>Aplicacion y cuidado de sueros</li>
                                                 <li>Aplicacion de inyecciones</li>
@@ -154,7 +155,8 @@
                             <div class="pbminfotech-post-item">
                                 <div class="pbmit-service-icon-overlay">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-04.jpg" class="img-fluid" alt="service 4">
+                                        <img src="images/services/service-04.jpg" class="img-fluid"
+                                            alt="Enfermeras auxiliares">
                                     </div>
                                     <div class="pbmit-service-icon-wrapper">
                                         <i class="pbmit-doctery-icon pbmit-doctery-icon-kidney"></i>
@@ -166,7 +168,7 @@
                                         </h3>
                                         <div class="pbmit-service-content">
                                             <ul>
-                                                <li>Compañia y apoyo de:</li>
+                                                <li>Atención y cuidado en:</li>
                                                 <li>Cuidado de sueros</li>
                                                 <li>Cuidado de sondas</li>
                                                 <li>Aplicacion de inyecciones intramusculares </li>
@@ -191,7 +193,7 @@
                             <div class="pbminfotech-post-item">
                                 <div class="pbmit-service-icon-overlay">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-05.jpg" class="img-fluid" alt="service 5">
+                                        <img src="images/services/service-05.jpg" class="img-fluid" alt="Cuidadoras">
                                     </div>
                                     <div class="pbmit-service-icon-wrapper">
                                         <i class="pbmit-doctery-icon pbmit-doctery-icon-headache"></i>
@@ -203,7 +205,7 @@
                                         </h3>
                                         <div class="pbmit-service-content">
                                             <ul>
-                                                <li>Compañia y apoyo de:</li>
+                                                <li>Atención y cuidado en:</li>
                                                 <li>Administración de medicamentos </li>
                                                 <li>Apoyo en terapia física</li>
                                                 <li>Terapia ocupacional</li>
@@ -233,7 +235,8 @@
                             <div class="pbminfotech-post-item">
                                 <div class="pbmit-service-icon-overlay">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-06.jpg" class="img-fluid" alt="service 6">
+                                        <img src="images/services/service-clean.jpg" class="img-fluid"
+                                            alt="Enfermera general">
                                     </div>
                                     <div class="pbmit-service-icon-wrapper">
                                         <i class="pbmit-doctery-icon pbmit-doctery-icon-pills"></i>
@@ -269,7 +272,8 @@
                             <div class="pbminfotech-post-item">
                                 <div class="pbmit-service-icon-overlay">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-03.jpg" class="img-fluid" alt="service 3">
+                                        <img src="images/services/service-03.jpg" class="img-fluid"
+                                            alt="Enfermera auxiliar">
                                     </div>
                                     <div class="pbmit-service-icon-wrapper">
                                         <i class="pbmit-doctery-icon pbmit-doctery-icon-angiography"></i>
@@ -304,10 +308,10 @@
                             <div class="pbminfotech-post-item">
                                 <div class="pbmit-service-icon-overlay">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/services/service-04.jpg" class="img-fluid" alt="service 4">
+                                        <img src="images/services/service-nana.jpg" class="img-fluid" alt="Nanas">
                                     </div>
                                     <div class="pbmit-service-icon-wrapper">
-                                        <i class="pbmit-doctery-icon pbmit-doctery-icon-kidney"></i>
+                                        <i class="pbmit-doctery-icon pbmit-doctery-icon-angiography"></i>
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
